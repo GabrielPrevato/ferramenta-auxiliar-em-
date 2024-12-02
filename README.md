@@ -9,6 +9,9 @@ Atualização: Uma nova versão, foi implementada (extra.py), permitindo a busca
 Link vídeo de demonstração:https://drive.google.com/file/d/1Z9qRqgaZUt2FClrrFGzhohApvJv4P7hM/view?usp=sharing
 
 Discentes:
+
 Bruno Rodrigues da Silveira
+
 Gabriel Augusto Prevato
+
 Lucas Shinji Yano
